@@ -28,7 +28,7 @@ const Layout = ({ children }: LayoutProps) => {
                 <GraduationCap className="h-6 w-6 text-primary-foreground" />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-foreground">LearnSpark</h1>
+                <h1 className="text-xl font-bold text-foreground">Study Hero</h1>
                 <p className="text-xs text-muted-foreground">Smart Study Companion</p>
               </div>
             </div>
